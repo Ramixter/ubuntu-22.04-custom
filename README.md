@@ -96,6 +96,7 @@ mv ~/.local/share/icons/Vimix-white-cursors ~/.icons
 
 ## Installing Extensions
 cd resources/extensions/
+mkdir -p ~/.local/share/gnome-shell/extensions
 cp -r * ~/.local/share/gnome-shell/extensions
 cd ../..
 ```
