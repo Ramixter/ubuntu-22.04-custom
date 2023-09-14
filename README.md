@@ -8,6 +8,10 @@ sudo apt install gnome-tweaks
 sudo apt install gnome-shell-extensions
 ```
 
+## Gnome extensions:
+
+wWe have to go to: [https://extensions.gnome.org/](https://extensions.gnome.org/)
+
 ## Download resources
 
 We need this resources:
