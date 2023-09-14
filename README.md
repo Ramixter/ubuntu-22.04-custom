@@ -79,8 +79,10 @@ cd ../..
 
 ### Vimix-cursors-master
 mkdir -p $HOME/.icons
-cp -r ~/.local/share/icons/Vimix-cursors ~/.icons
-cp -r ~/.local/share/icons/Vimix-white-cursors ~/.icons
+rm -rf ~/.local/share/icons/Vimix-cursors
+rm -rf ~/.local/share/icons/Vimix-white-cursors
+mv ~/.local/share/icons/Vimix-cursors ~/.icons
+mv ~/.local/share/icons/Vimix-white-cursors ~/.icons
 
 ## Installing Extensions
 cd resources/extensions/
