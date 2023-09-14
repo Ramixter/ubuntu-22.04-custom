@@ -10,5 +10,5 @@ sudo apt install gnome-shell-extensions
 
 ## Download resources
 
-[resources/all-extensions-config.zip]
+- [all-extensions-config.zip](resources/all-extensions-config.zip)
 
