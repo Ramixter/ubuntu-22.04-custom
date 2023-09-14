@@ -49,12 +49,12 @@ unzip resources/wallpapers-pack.zip -d resources/
 unzip resources/all-extensions-config.zip -d resources/
 
 ## Installing WhiteSur-gtk-theme-master
-# ./resources/WhiteSur-gtk-theme-master/install.sh
-./resources/WhiteSur-gtk-theme-master/install.sh -t red
+./resources/WhiteSur-gtk-theme-master/install.sh
+# ./resources/WhiteSur-gtk-theme-master/install.sh -t red
 
 ## Installing Reversal-icon-theme-master
-# ./resources/Reversal-icon-theme-master/install.sh
-./resources/Reversal-icon-theme-master/install.sh -red
+./resources/Reversal-icon-theme-master/install.sh
+# ./resources/Reversal-icon-theme-master/install.sh -red
 
 ## Installing Vimix-cursors-master
 ./resources/Vimix-cursors-master/install.sh
