@@ -196,3 +196,8 @@ sudo reboot
 daee515212ac51440b2da25fcd248a46
 
 {execi 300 curl -s "http://weather.yahooapis.com/forecastrss?w=44418&u=c" -o ~/.cache/weather.xml}
+
+
+{execi 300 curl -s "http://weather.yahooapis.com/forecastrss?w=2295411&u=c" -o ~/.cache/weather.xml}
+
+{execi 300 wget "http://weather.yahooapis.com/forecastrss?w=2295411&u=c" --output-document=.cache/weather.xml}
