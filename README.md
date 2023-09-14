@@ -46,6 +46,7 @@ cd ubuntu-22.04-custom/
 unzip resources/WhiteSur-gtk-theme-master.zip -d resources/
 unzip resources/Reversal-icon-theme-master.zip -d resources/
 unzip resources/Vimix-cursors-master.zip -d resources/
+unzip resources/media-controls-main.zip -d resources/
 ### Resources 2:
 unzip resources/arcmenu-config.zip -d resources/
 unzip resources/conky-config.zip -d resources/
@@ -55,7 +56,6 @@ unzip resources/fonts.zip -d resources/
 unzip resources/media-control-config.zip -d resources/
 unzip resources/wallpapers-pack.zip -d resources/
 unzip resources/all-extensions-config.zip -d resources/
-unzip resources/media-controls-main.zip -d resources/
 
 ## Installing WhiteSur-gtk-theme-master
 cd resources/WhiteSur-gtk-theme-master/
