@@ -110,7 +110,7 @@ Now we will have to configure the extensions that we have installed previously.
 
 ```bash
 # cd ubuntu-22.04-custom/
-cp -r resources/media-controls-main/ ~/.local/share/gnome-shell/extension/mediacontrols@cliffniff.github.com
+cp -r resources/media-controls-main/ ~/.local/share/gnome-shell/extensions/mediacontrols@cliffniff.github.com
 ```
 
 
