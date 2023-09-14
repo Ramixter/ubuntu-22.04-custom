@@ -69,8 +69,13 @@ cd resources/Vimix-cursors-master/
 cd ../..
 
 ### Vimix-cursors-master
-mkdir $HOME/.icons
+mkdir -p $HOME/.icons
 mv ~/.local/share/icons/Vimix* ~/.icons
+
+## Installing Extensions
+cd resources/extensions/
+cp -r * ~/.local/share/
+cd ../..
 
 
 
