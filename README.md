@@ -21,6 +21,7 @@ Resources 2:
 - [arcmenu-config.zip](resources/arcmenu-config.zip)
 - [conky-config.zip](resources/conky-config.zip)
 - [dash-to-panel-config.zip](resources/dash-to-panel-config.zip)
+- [extensions.zip](resources/extensions.zip)
 - [fonts.zip](resources/fonts.zip)
 - [media-control-config.zip](resources/media-control-config.zip)
 - [wallpapers-pack.zip](resources/wallpapers-pack.zip)
@@ -35,7 +36,8 @@ unzip resources/Reversal-icon-theme-master.zip -d resources/
 unzip resources/arcmenu-config.zip -d resources/
 unzip resources/conky-config.zip -d resources/
 unzip resources/dash-to-panel-config.zip -d resources/
-unzip resources/fonts.zipp -d resources/
+unzip resources/extensions.zip -d resources/
+unzip resources/fonts.zip -d resources/
 unzip resources/media-control-config.zip -d resources/
 unzip resources/wallpapers-pack.zip -d resources/
 unzip resources/all-extensions-config.zip -d resources/
