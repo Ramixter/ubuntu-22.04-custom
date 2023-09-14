@@ -183,3 +183,11 @@ We will check that it has been applied with *Tweaks*.
 
 ![img](images/img6.png)
 
+Now we restart the Operating System so that the changes are applied correctly. We can do it through GUI or with the command:
+
+```bash
+sudo reboot
+```
+
+
+7d2730483b9376ef791c604708b7aaef
