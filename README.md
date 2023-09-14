@@ -5,8 +5,8 @@
 ```bash
 sudo apt update
 sudo apt full-upgrade
-sudo apt install gnome-tweaks
-sudo apt install gnome-shell-extensions
+sudo apt -y install gnome-tweaks
+sudo apt -y install gnome-shell-extensions
 ```
 
 ## Gnome extensions:
@@ -79,7 +79,8 @@ cd ../..
 
 ### Vimix-cursors-master
 mkdir -p $HOME/.icons
-mv ~/.local/share/icons/Vimix* ~/.icons
+cp -r ~/.local/share/icons/Vimix-cursors ~/.icons
+cp -r ~/.local/share/icons/Vimix-white-cursors ~/.icons
 
 ## Installing Extensions
 cd resources/extensions/
