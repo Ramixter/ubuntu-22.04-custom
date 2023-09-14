@@ -56,6 +56,9 @@ unzip resources/all-extensions-config.zip -d resources/
 ./resources/Reversal-icon-theme-master/install.sh
 # ./resources/Reversal-icon-theme-master/install.sh -red
 
+## Installing Fonts
+cp -r resources/fonts ~/.local/share
+
 ## Installing Vimix-cursors-master
 ./resources/Vimix-cursors-master/install.sh
 
@@ -63,8 +66,7 @@ unzip resources/all-extensions-config.zip -d resources/
 mkdir $HOME/.icons
 mv ~/.local/share/icons/Vimix* ~/.icons
 
-## Installing Fonts
-cp -r resources/fonts ~/.local/share
+
 
 ```
 
