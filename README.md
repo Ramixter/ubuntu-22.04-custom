@@ -10,6 +10,12 @@ sudo apt install gnome-shell-extensions
 
 ## Download resources
 
+We need this resources:
+
+Resources 1:
+- [WhiteSur-gtk-theme-master.zip](resources/WhiteSur-gtk-theme-master.zip)
+- [Reversal-icon-theme-master.zip](resources/Reversal-icon-theme-master.zip)
+Resources 2:
 - [arcmenu-config.zip](resources/arcmenu-config.zip)
 - [conky-config.zip](resources/conky-config.zip)
 - [dash-to-panel-config.zip](resources/dash-to-panel-config.zip)
@@ -24,6 +30,6 @@ cd ubuntu-22.04-custom
 
 ```
 
-Also we need:
+
 
 
