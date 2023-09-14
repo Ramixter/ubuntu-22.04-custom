@@ -118,3 +118,19 @@ Now we restart the Operating System so that the changes are applied correctly. W
 ```bash
 sudo reboot
 ```
+
+### All extensions config
+
+> We will have to go to the repository where we have copied the github repository
+
+```bash
+# cd ubuntu-22.04-custom/
+cd resources/all_extensions_config/
+dconfload /org/gnome/shell/extensions/< all_extension_settings.conf
+```
+
+Now we restart the Operating System so that the changes are applied correctly. We can do it through GUI or with the command:
+
+```bash
+sudo reboot
+```
