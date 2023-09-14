@@ -7,6 +7,7 @@ sudo apt update
 sudo apt full-upgrade
 sudo apt install gnome-tweaks
 sudo apt install gnome-shell-extensions
+sudo apt install curl wget git jq
 ```
 
 ## Gnome extensions:
