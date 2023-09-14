@@ -193,3 +193,5 @@ sudo reboot
 7d2730483b9376ef791c604708b7aaef
 
 daee515212ac51440b2da25fcd248a46
+
+{execi 300 curl -s "http://weather.yahooapis.com/forecastrss?w=44418&u=c" -o ~/.cache/weather.xml}
