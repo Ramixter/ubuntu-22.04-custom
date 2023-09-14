@@ -15,6 +15,12 @@ wWe have to go to [https://extensions.gnome.org/](https://extensions.gnome.org/)
 
 ![img](images/img1.png)
 
+Now we restart the Operating System so that the changes are applied correctly. We can do it through GUI or with the command:
+
+```bash
+sudo reboot
+```
+
 ## Download resources
 
 We need this resources:
