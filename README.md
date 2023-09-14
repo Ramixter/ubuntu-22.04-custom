@@ -3,10 +3,10 @@
 ## Installing dependencies & Updates
 
 ```bash
-sudo apt -y update
-sudo apt -y full-upgrade
-sudo apt -y install gnome-tweaks
-sudo apt -y install gnome-shell-extensions
+sudo apt update
+sudo apt full-upgrade
+sudo apt install gnome-tweaks
+sudo apt install gnome-shell-extensions
 ```
 
 ## Gnome extensions:
@@ -163,3 +163,22 @@ sudo reboot
 This section is optional since we can change the fonts and icons if we want them to look different.
 
 ![img](images/img5.png)
+
+## Install and config Conky
+
+```bash
+sudo apt install conky-all curl jq
+mkdir -p $HOME/.config/conky
+```
+
+> We will have to go to the repository where we have copied the github repository
+
+```bash
+# cd ubuntu-22.04-custom/
+cp -r resources/conky_config/Graffias ~/.config/conky/
+cp -r resources/conky_config/start_conky.desktop ~/.config/autostart/
+```
+
+We will check that it has been applied with *Tweaks*.
+
+
