@@ -99,5 +99,5 @@ Now we will have to configure the extensions that we have installed previously.
 
 ![img](images/img2.png)
 
-
-
+> Note: Check that *Gnome extensions* is still on:
+> ![img](images/img3.png)
