@@ -24,6 +24,7 @@ Resources 1:
 - [WhiteSur-gtk-theme-master.zip](resources/WhiteSur-gtk-theme-master.zip)
 - [Reversal-icon-theme-master.zip](resources/Reversal-icon-theme-master.zip)
 - [Vimix-cursors-master.zip](resources/Vimix-cursors-master.zip.zip)
+- [media-controls-main.zip](resources/media-controls-main.zip)
 
 Resources 2:
 - [arcmenu-config.zip](resources/arcmenu-config.zip)
@@ -54,6 +55,7 @@ unzip resources/fonts.zip -d resources/
 unzip resources/media-control-config.zip -d resources/
 unzip resources/wallpapers-pack.zip -d resources/
 unzip resources/all-extensions-config.zip -d resources/
+unzip resources/media-controls-main.zip -d resources/
 
 ## Installing WhiteSur-gtk-theme-master
 cd resources/WhiteSur-gtk-theme-master/
