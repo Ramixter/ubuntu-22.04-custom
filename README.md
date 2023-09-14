@@ -3,8 +3,8 @@
 ## Installing dependencies & Updates
 
 ```bash
-sudo apt update
-sudo apt full-upgrade
+sudo apt -y update
+sudo apt -y full-upgrade
 sudo apt -y install gnome-tweaks
 sudo apt -y install gnome-shell-extensions
 ```
