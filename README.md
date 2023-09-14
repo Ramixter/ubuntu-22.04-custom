@@ -49,18 +49,24 @@ unzip resources/wallpapers-pack.zip -d resources/
 unzip resources/all-extensions-config.zip -d resources/
 
 ## Installing WhiteSur-gtk-theme-master
-#./resources/WhiteSur-gtk-theme-master/install.sh
-./resources/WhiteSur-gtk-theme-master/install.sh -t red
+cd /resources/WhiteSur-gtk-theme-master/
+./install.sh -t red
+# ./install.sh
+cd ../..
 
 ## Installing Reversal-icon-theme-master
-#./resources/Reversal-icon-theme-master/install.sh
-./resources/Reversal-icon-theme-master/install.sh -red
+cd /resources/Reversal-icon-theme-master/
+./install.sh -red
+# ./install.sh
+cd ../..
 
 ## Installing Fonts
 cp -r resources/fonts ~/.local/share
 
 ## Installing Vimix-cursors-master
-./resources/Vimix-cursors-master/install.sh
+cd /resources/Vimix-cursors-master/
+./install.sh
+cd ../..
 
 ### Vimix-cursors-master
 mkdir $HOME/.icons
