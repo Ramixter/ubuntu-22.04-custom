@@ -169,6 +169,7 @@ This section is optional since we can change the fonts and icons if we want them
 ```bash
 sudo apt install conky-all curl jq
 mkdir -p $HOME/.config/conky
+mkdir -p $HOME/.config/autostart
 ```
 
 > We will have to go to the repository where we have copied the github repository
