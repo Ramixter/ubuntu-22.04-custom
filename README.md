@@ -3,7 +3,8 @@
 ## Installing dependencies & Updates
 
 ```bash
-sudo apt update && sudo apt full-upgrade
+sudo apt update
+sudo apt full-upgrade
 sudo apt install gnome-tweaks
 sudo apt install gnome-shell-extensions
 ```
@@ -80,12 +81,21 @@ mv ~/.local/share/icons/Vimix* ~/.icons
 
 ## Installing Extensions
 cd resources/extensions/
-cp -r * ~/.local/share/
+cp -r * ~/.local/share/gnome-shell/extensions
 cd ../..
-
-
-
 ```
+
+Now we restart the Operating System so that the changes are applied correctly. We can do it through GUI or with the command:
+
+```bash
+sudo reboot now
+```
+
+## Configuring Theme:
+
+### Extensions
+
+Now we will have to configure the extensions that we have installed previously.
 
 
 
