@@ -50,7 +50,6 @@ unzip resources/WhiteSur-gtk-theme-master.zip -d resources/
 unzip resources/Reversal-icon-theme-master.zip -d resources/
 unzip resources/Vimix-cursors-master.zip -d resources/
 unzip resources/media-controls-main.zip -d resources/
-### Resources 2:
 unzip resources/arcmenu-config.zip -d resources/
 unzip resources/conky-config.zip -d resources/
 unzip resources/dash-to-panel-config.zip -d resources/
