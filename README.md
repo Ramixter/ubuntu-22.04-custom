@@ -126,7 +126,7 @@ sudo reboot
 ```bash
 # cd ubuntu-22.04-custom/
 cd resources/all_extensions_config/
-dconfload /org/gnome/shell/extensions/< all_extension_settings.conf
+dconf load /org/gnome/shell/extensions/< all_extension_settings.conf
 ```
 
 Now we restart the Operating System so that the changes are applied correctly. We can do it through GUI or with the command:
