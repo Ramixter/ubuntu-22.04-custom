@@ -150,3 +150,9 @@ Now we restart the Operating System so that the changes are applied correctly. W
 ```bash
 sudo reboot
 ```
+
+## OPTIONAL - Setting up Icons and Fonts
+
+This section is optional since we can change the fonts and icons if we want them to look different.
+
+![img](images/img5.png)
