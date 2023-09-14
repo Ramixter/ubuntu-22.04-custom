@@ -19,7 +19,9 @@ sudo apt install gnome-shell-extensions
 - [all-extensions-config.zip](resources/all-extensions-config.zip)
 
 ```bash
-git clone 
+git clone https://github.com/Ramixter/ubuntu-22.04-custom.git
+cd ubuntu-22.04-custom
+
 ```
 
 Also we need:
