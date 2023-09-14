@@ -111,6 +111,9 @@ sudo reboot
 
 ### Extensions
 
+> After restarting, it may ask us to log in again so that the changes can be applied:
+> ![img](images/img2-1.png)
+
 Now we will have to configure the extensions that we have installed previously.
 
 ![img](images/img2.png)
