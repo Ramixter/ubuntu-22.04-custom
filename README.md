@@ -10,7 +10,9 @@ sudo apt install gnome-shell-extensions
 
 ## Gnome extensions:
 
-wWe have to go to: [https://extensions.gnome.org/](https://extensions.gnome.org/)
+wWe have to go to [https://extensions.gnome.org/](https://extensions.gnome.org/) and do the changes to set up the *Gnome Extensions*:
+
+![img](images/img1.png)
 
 ## Download resources
 
