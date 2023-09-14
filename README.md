@@ -181,4 +181,5 @@ cp -r resources/conky_config/start_conky.desktop ~/.config/autostart/
 
 We will check that it has been applied with *Tweaks*.
 
+![img](images/img6.png)
 
