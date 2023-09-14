@@ -16,6 +16,7 @@ Resources 1:
 
 - [WhiteSur-gtk-theme-master.zip](resources/WhiteSur-gtk-theme-master.zip)
 - [Reversal-icon-theme-master.zip](resources/Reversal-icon-theme-master.zip)
+- [Vimix-cursors-master.zip](resources/Vimix-cursors-master.zip.zip)
 
 Resources 2:
 - [arcmenu-config.zip](resources/arcmenu-config.zip)
@@ -33,8 +34,11 @@ git clone https://github.com/Ramixter/ubuntu-22.04-custom.git
 cd ubuntu-22.04-custom/
 
 ## Unzip resources:
+#### Resources1:
 unzip resources/WhiteSur-gtk-theme-master.zip -d resources/
 unzip resources/Reversal-icon-theme-master.zip -d resources/
+unzip resources/Vimix-cursors-master.zip -d resources/
+### Resources 2:
 unzip resources/arcmenu-config.zip -d resources/
 unzip resources/conky-config.zip -d resources/
 unzip resources/dash-to-panel-config.zip -d resources/
@@ -52,6 +56,8 @@ unzip resources/all-extensions-config.zip -d resources/
 # ./resources/Reversal-icon-theme-master/install.sh
 ./resources/Reversal-icon-theme-master/install.sh -red
 
+## Installing Fonts
+cp -r resources/fonts ~/.local/share
 
 ```
 
