@@ -19,14 +19,11 @@ wWe have to go to [https://extensions.gnome.org/](https://extensions.gnome.org/)
 
 We need this resources:
 
-Resources 1:
-
 - [WhiteSur-gtk-theme-master.zip](resources/WhiteSur-gtk-theme-master.zip)
 - [Reversal-icon-theme-master.zip](resources/Reversal-icon-theme-master.zip)
 - [Vimix-cursors-master.zip](resources/Vimix-cursors-master.zip.zip)
 - [media-controls-main.zip](resources/media-controls-main.zip)
 
-Resources 2:
 - [arcmenu-config.zip](resources/arcmenu-config.zip)
 - [conky-config.zip](resources/conky-config.zip)
 - [dash-to-panel-config.zip](resources/dash-to-panel-config.zip)
@@ -36,13 +33,19 @@ Resources 2:
 - [wallpapers-pack.zip](resources/wallpapers-pack.zip)
 - [all-extensions-config.zip](resources/all-extensions-config.zip)
 
+### Cloning repository:
+
 ```bash
-## Cloning repository:
 git clone https://github.com/Ramixter/ubuntu-22.04-custom.git
 cd ubuntu-22.04-custom/
+```
 
-## Unzip resources:
-#### Resources1:
+### Unzip resources:
+
+> We will have to go to the repository where we have copied the github repository
+
+```bash
+# cd ubuntu-22.04-custom/
 unzip resources/WhiteSur-gtk-theme-master.zip -d resources/
 unzip resources/Reversal-icon-theme-master.zip -d resources/
 unzip resources/Vimix-cursors-master.zip -d resources/
@@ -56,6 +59,14 @@ unzip resources/fonts.zip -d resources/
 unzip resources/media-control-config.zip -d resources/
 unzip resources/wallpapers-pack.zip -d resources/
 unzip resources/all-extensions-config.zip -d resources/
+```
+
+### Installing some resources:
+
+> We will have to go to the repository where we have copied the github repository
+
+```bash
+# cd ubuntu-22.04-custom/
 
 ## Installing WhiteSur-gtk-theme-master
 cd resources/WhiteSur-gtk-theme-master/
