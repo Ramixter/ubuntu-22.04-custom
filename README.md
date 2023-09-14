@@ -106,7 +106,7 @@ Now we will have to configure the extensions that we have installed previously.
 
 ### Media Controls
 
-> We will have to go to the repository where we have copied the github repository to copy the 'media-controls-main' file into the directory '.local/share/gnome-shell/extension/', and we will have to name it 'mediacontrols @cliffniff.github.com'
+> We will have to go to the repository where we have copied the github repository to copy the `media-controls-main` file into the directory `.local/share/gnome-shell/extension/`, and we will have to name it `mediacontrols @cliffniff.github.com`
 
 ```bash
 # cd ubuntu-22.04-custom/
