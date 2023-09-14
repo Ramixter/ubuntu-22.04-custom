@@ -97,6 +97,7 @@ sudo reboot now
 
 Now we will have to configure the extensions that we have installed previously.
 
+![img](images/img2.png)
 
 
 
