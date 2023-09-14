@@ -28,9 +28,11 @@ Resources 2:
 - [all-extensions-config.zip](resources/all-extensions-config.zip)
 
 ```bash
+## Cloning repository:
 git clone https://github.com/Ramixter/ubuntu-22.04-custom.git
 cd ubuntu-22.04-custom/
-# Unzip resources
+
+## Unzip resources:
 unzip resources/WhiteSur-gtk-theme-master.zip -d resources/
 unzip resources/Reversal-icon-theme-master.zip -d resources/
 unzip resources/arcmenu-config.zip -d resources/
@@ -41,6 +43,15 @@ unzip resources/fonts.zip -d resources/
 unzip resources/media-control-config.zip -d resources/
 unzip resources/wallpapers-pack.zip -d resources/
 unzip resources/all-extensions-config.zip -d resources/
+
+## Installing WhiteSur-gtk-theme-master
+# ./resources/WhiteSur-gtk-theme-master/install.sh
+./resources/WhiteSur-gtk-theme-master/install.sh -t red
+
+## Installing Reversal-icon-theme-master
+# ./resources/Reversal-icon-theme-master/install.sh
+./resources/Reversal-icon-theme-master/install.sh -red
+
 
 ```
 
