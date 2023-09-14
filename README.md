@@ -28,7 +28,17 @@ Resources 2:
 
 ```bash
 git clone https://github.com/Ramixter/ubuntu-22.04-custom.git
-cd ubuntu-22.04-custom
+cd ubuntu-22.04-custom/
+# Unzip resources
+unzip resources/WhiteSur-gtk-theme-master.zip -d resources/
+unzip resources/Reversal-icon-theme-master.zip -d resources/
+unzip resources/arcmenu-config.zip -d resources/
+unzip resources/conky-config.zip -d resources/
+unzip resources/dash-to-panel-config.zip -d resources/
+unzip resources/fonts.zipp -d resources/
+unzip resources/media-control-config.zip -d resources/
+unzip resources/wallpapers-pack.zip -d resources/
+unzip resources/all-extensions-config.zip -d resources/
 
 ```
 
