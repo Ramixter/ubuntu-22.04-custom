@@ -90,7 +90,7 @@ cd ../..
 Now we restart the Operating System so that the changes are applied correctly. We can do it through GUI or with the command:
 
 ```bash
-sudo reboot now
+sudo reboot
 ```
 
 ## Configuring Theme:
@@ -113,4 +113,8 @@ Now we will have to configure the extensions that we have installed previously.
 cp -r resources/media-controls-main/ ~/.local/share/gnome-shell/extensions/mediacontrols@cliffniff.github.com
 ```
 
+Now we restart the Operating System so that the changes are applied correctly. We can do it through GUI or with the command:
 
+```bash
+sudo reboot
+```
