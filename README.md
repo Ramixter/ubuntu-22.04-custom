@@ -100,4 +100,4 @@ Now we will have to configure the extensions that we have installed previously.
 ![img](images/img2.png)
 
 > Note: check that *Gnome extensions* and the other extensions are turned on
-> ![img](images/img3.png)
+> ![img](images/img4.png)
