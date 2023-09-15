@@ -10,6 +10,15 @@ sudo apt install gnome-shell-extensions
 sudo apt install curl wget git jq
 ```
 
+> NOTE: Optional
+> ```bash
+> sudo apt install conky-all
+> sudo apt install lua5.3
+> sudo add-apt-repository ppa:teejee2008/foss
+> sudo apt update
+> sudo apt install conky-manager2
+> ```
+
 ## Gnome extensions:
 
 wWe have to go to [https://extensions.gnome.org/](https://extensions.gnome.org/) and do the changes to set up the *Gnome Extensions*:
